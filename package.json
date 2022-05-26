@@ -1,0 +1,23 @@
+{
+  "name": "kickstart",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "eta": "^1.12.3",
+    "glob": "^8.0.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-filter": "^7.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-stylus": "^2.7.1",
+    "gulp-tap": "^2.0.0",
+    "stylus": "^0.57.0",
+    "tsify": "^5.0.4",
+    "typescript": "^4.7.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
